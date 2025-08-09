@@ -1,6 +1,6 @@
 {
 	"name": "african-country-state-city",
-	"version": "3.2.1",
+	"version": "1.0.0",
 	"description": "Library for fetching African Country, its States and Cities",
 	"main": "./lib/cjs/index.js",
 	"module": "./lib/index.js",
@@ -16,7 +16,7 @@
 		"update-data": "ts-node src/scripts/combineSplitFilesToMakeALargeDatasetFiles-CSC.ts",
 		"update-data-with-gz": "gz=true ts-node src/scripts/combineSplitFilesToMakeALargeDatasetFiles-CSC.ts"
 	},
-	"author": "harpreetkhalsagtbit@gmail.com",
+	"author": "obidaberechukwu@gmail.com",
 	"license": "GPL-3.0",
 	"directories": {
 		"lib": "lib"
