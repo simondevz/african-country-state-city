@@ -1,0 +1,711 @@
+[
+  {
+    "isoCode": "DZ",
+    "name": "Algeria",
+    "timezones": [
+      {
+        "zoneName": "Africa/Algiers",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "AO",
+    "name": "Angola",
+    "timezones": [
+      {
+        "zoneName": "Africa/Luanda",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "BJ",
+    "name": "Benin",
+    "timezones": [
+      {
+        "zoneName": "Africa/Porto-Novo",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "BW",
+    "name": "Botswana",
+    "timezones": [
+      {
+        "zoneName": "Africa/Gaborone",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "BF",
+    "name": "Burkina Faso",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ouagadougou",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "BI",
+    "name": "Burundi",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bujumbura",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "CM",
+    "name": "Cameroon",
+    "timezones": [
+      {
+        "zoneName": "Africa/Douala",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "CV",
+    "name": "Cape Verde",
+    "timezones": [
+      {
+        "zoneName": "Atlantic/Cape_Verde",
+        "gmtOffset": -3600,
+        "gmtOffsetName": "UTC-01:00",
+        "abbreviation": "CVT",
+        "tzName": "Cape Verde Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "CF",
+    "name": "Central African Republic",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bangui",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "TD",
+    "name": "Chad",
+    "timezones": [
+      {
+        "zoneName": "Africa/Ndjamena",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "KM",
+    "name": "Comoros",
+    "timezones": [
+      {
+        "zoneName": "Indian/Comoro",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "CG",
+    "name": "Congo",
+    "timezones": [
+      {
+        "zoneName": "Africa/Brazzaville",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "CD",
+    "name": "Democratic Republic of the Congo",
+    "timezones": [
+      {
+        "zoneName": "Africa/Kinshasa",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      },
+      {
+        "zoneName": "Africa/Lubumbashi",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "CI",
+    "name": "Cote D'Ivoire (Ivory Coast)",
+    "timezones": [
+      {
+        "zoneName": "Africa/Abidjan",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "DJ",
+    "name": "Djibouti",
+    "timezones": [
+      {
+        "zoneName": "Africa/Djibouti",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "EG",
+    "name": "Egypt",
+    "timezones": [
+      {
+        "zoneName": "Africa/Cairo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "GQ",
+    "name": "Equatorial Guinea",
+    "timezones": [
+      {
+        "zoneName": "Africa/Malabo",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "ER",
+    "name": "Eritrea",
+    "timezones": [
+      {
+        "zoneName": "Africa/Asmara",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "ET",
+    "name": "Ethiopia",
+    "timezones": [
+      {
+        "zoneName": "Africa/Addis_Ababa",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "GA",
+    "name": "Gabon",
+    "timezones": [
+      {
+        "zoneName": "Africa/Libreville",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "GM",
+    "name": "The Gambia",
+    "timezones": [
+      {
+        "zoneName": "Africa/Banjul",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "GH",
+    "name": "Ghana",
+    "timezones": [
+      {
+        "zoneName": "Africa/Accra",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "GN",
+    "name": "Guinea",
+    "timezones": [
+      {
+        "zoneName": "Africa/Conakry",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "GW",
+    "name": "Guinea-Bissau",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bissau",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "KE",
+    "name": "Kenya",
+    "timezones": [
+      {
+        "zoneName": "Africa/Nairobi",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "LS",
+    "name": "Lesotho",
+    "timezones": [
+      {
+        "zoneName": "Africa/Maseru",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "SAST",
+        "tzName": "South African Standard Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "LR",
+    "name": "Liberia",
+    "timezones": [
+      {
+        "zoneName": "Africa/Monrovia",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "LY",
+    "name": "Libya",
+    "timezones": [
+      {
+        "zoneName": "Africa/Tripoli",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EET",
+        "tzName": "Eastern European Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "MG",
+    "name": "Madagascar",
+    "timezones": [
+      {
+        "zoneName": "Indian/Antananarivo",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "MW",
+    "name": "Malawi",
+    "timezones": [
+      {
+        "zoneName": "Africa/Blantyre",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "ML",
+    "name": "Mali",
+    "timezones": [
+      {
+        "zoneName": "Africa/Bamako",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "MR",
+    "name": "Mauritania",
+    "timezones": [
+      {
+        "zoneName": "Africa/Nouakchott",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "MU",
+    "name": "Mauritius",
+    "timezones": [
+      {
+        "zoneName": "Indian/Mauritius",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "MUT",
+        "tzName": "Mauritius Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "MA",
+    "name": "Morocco",
+    "timezones": [
+      {
+        "zoneName": "Africa/Casablanca",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WEST",
+        "tzName": "Western European Summer Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "MZ",
+    "name": "Mozambique",
+    "timezones": [
+      {
+        "zoneName": "Africa/Maputo",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "NA",
+    "name": "Namibia",
+    "timezones": [
+      {
+        "zoneName": "Africa/Windhoek",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "WAST",
+        "tzName": "West Africa Summer Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "NE",
+    "name": "Niger",
+    "timezones": [
+      {
+        "zoneName": "Africa/Niamey",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "NG",
+    "name": "Nigeria",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lagos",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "WAT",
+        "tzName": "West Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "RW",
+    "name": "Rwanda",
+    "timezones": [
+      {
+        "zoneName": "Africa/Kigali",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "ST",
+    "name": "Sao Tome and Principe",
+    "timezones": [
+      {
+        "zoneName": "Africa/Sao_Tome",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "SN",
+    "name": "Senegal",
+    "timezones": [
+      {
+        "zoneName": "Africa/Dakar",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "SC",
+    "name": "Seychelles",
+    "timezones": [
+      {
+        "zoneName": "Indian/Mahe",
+        "gmtOffset": 14400,
+        "gmtOffsetName": "UTC+04:00",
+        "abbreviation": "SCT",
+        "tzName": "Seychelles Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "SL",
+    "name": "Sierra Leone",
+    "timezones": [
+      {
+        "zoneName": "Africa/Freetown",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "SO",
+    "name": "Somalia",
+    "timezones": [
+      {
+        "zoneName": "Africa/Mogadishu",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "ZA",
+    "name": "South Africa",
+    "timezones": [
+      {
+        "zoneName": "Africa/Johannesburg",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "SAST",
+        "tzName": "South African Standard Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "SS",
+    "name": "South Sudan",
+    "timezones": [
+      {
+        "zoneName": "Africa/Juba",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "SD",
+    "name": "Sudan",
+    "timezones": [
+      {
+        "zoneName": "Africa/Khartoum",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "EAT",
+        "tzName": "Eastern African Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "SZ",
+    "name": "Swaziland",
+    "timezones": [
+      {
+        "zoneName": "Africa/Mbabane",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "SAST",
+        "tzName": "South African Standard Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "TZ",
+    "name": "Tanzania",
+    "timezones": [
+      {
+        "zoneName": "Africa/Dar_es_Salaam",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "TG",
+    "name": "Togo",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lome",
+        "gmtOffset": 0,
+        "gmtOffsetName": "UTC±00",
+        "abbreviation": "GMT",
+        "tzName": "Greenwich Mean Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "TN",
+    "name": "Tunisia",
+    "timezones": [
+      {
+        "zoneName": "Africa/Tunis",
+        "gmtOffset": 3600,
+        "gmtOffsetName": "UTC+01:00",
+        "abbreviation": "CET",
+        "tzName": "Central European Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "UG",
+    "name": "Uganda",
+    "timezones": [
+      {
+        "zoneName": "Africa/Kampala",
+        "gmtOffset": 10800,
+        "gmtOffsetName": "UTC+03:00",
+        "abbreviation": "EAT",
+        "tzName": "East Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "ZM",
+    "name": "Zambia",
+    "timezones": [
+      {
+        "zoneName": "Africa/Lusaka",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ]
+  },
+  {
+    "isoCode": "ZW",
+    "name": "Zimbabwe",
+    "timezones": [
+      {
+        "zoneName": "Africa/Harare",
+        "gmtOffset": 7200,
+        "gmtOffsetName": "UTC+02:00",
+        "abbreviation": "CAT",
+        "tzName": "Central Africa Time"
+      }
+    ]
+  }
+]
